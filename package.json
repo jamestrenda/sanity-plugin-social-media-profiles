@@ -8,6 +8,9 @@
   ],
   "license": "MIT",
   "author": "James Trenda <james@trenda.dev>",
+  "repository": {
+    "url": "https://github.com/jamestrenda/sanity-plugin-social-media-profiles"
+  },
   "sideEffects": false,
   "type": "commonjs",
   "exports": {
